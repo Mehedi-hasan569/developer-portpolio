@@ -1,18 +1,48 @@
 body{
     font-family: 'Roboto Slab', serif;
+    margin: 100px;
+    text-align: start;
+    
+   
 }
 .orange-color{
     color: rgb(255, 0, 43);
 } 
 h1{ 
-    font: size 50px; ;
+    font: size 75px; 
 }
 section{
     display: flex;
+    
 }
 .halh-width{
     width: 50%;
 }
-.halh-width img{
-    width: 100%;
+
+.half-width img{
+    width: 200px;
+    padding-right: 25px;
 }
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 15px;
+    color: white;
+    font-weight: 700px;
+    border-radius: 15px;
+}
+.top-banner{
+    background-image: url(newpic3.jpg);
+    
+   
+}
+.dream{
+    color: tomato;
+}
+.halh-width{
+    width: 50%;
+}
+.DREAM-BIG{
+    background-image: url(newpic3.jpg);
+}
+
